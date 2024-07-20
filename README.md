@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sai krishna
-- 👀 I’m interested in web development and open-source
-- 🌱 I’m currently learning mern stack 
+- 👋 Hi, I’m @ Sai krishna
+- 👀 I’m interested in Tech
+- 🌱 I’m currently looking for a job 
 - 💞️ I’m looking to collaborate on web development projects...
 - 📫 How to reach me on saikrishnaask191@gmail.com...
 
