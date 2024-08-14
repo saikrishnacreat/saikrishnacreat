@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Sai krishna
-- 👀 I’m interested in Tech
+- 👀 I’m interested in Finding Solutions to modern problems
 - 🌱 I’m currently looking for a job 
 - 💞️ I’m looking to collaborate on web development projects...
 - 📫 How to reach me on saikrishnaask191@gmail.com...
